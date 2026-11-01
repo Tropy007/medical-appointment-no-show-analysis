@@ -1,0 +1,7 @@
+Booking lead time,SMS,No-show rate
+2. 3-7 days,No SMS,0.2659
+2. 3-7 days,SMS received,0.2376
+3. 8-30 days,No SMS,0.3555
+3. 8-30 days,SMS received,0.2913
+4. 31+ days,No SMS,0.3753
+4. 31+ days,SMS received,0.302

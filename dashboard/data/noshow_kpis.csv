@@ -1,0 +1,7 @@
+metric,value
+Appointments,"110,521"
+No-show rate,20.2%
+Same-day no-show,4.6%
+31+ days no-show,33.0%
+Model ROC-AUC,0.73
+Missed visits caught,83%

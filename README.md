@@ -32,6 +32,14 @@ Analysis of **110,527 medical appointments** to find which patient and schedulin
 - Keep SMS reminders, and prioritize them for the highest-risk bookings flagged by the model.
 - Treat findings as associations to test (for example with an A/B test of reminder timing), not as proven causes.
 
+## Interactive dashboard
+
+[![Tableau dashboard](images/tableau_dashboard.jpg)](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Appointment_No_Show_Dashboard/AppointmentNo-Shows)
+
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Appointment_No_Show_Dashboard/AppointmentNo-Shows)**
+
+The packaged workbook is [`dashboard/Appointment_No_Show_Dashboard.twbx`](dashboard/Appointment_No_Show_Dashboard.twbx). [`dashboard/export_dashboard_data.py`](dashboard/export_dashboard_data.py) rebuilds the dashboard tables in `dashboard/data/` from this project's data and code.
+
 ## Methods
 
 - Data cleaning: invalid ages and bookings dated after the appointment removed
